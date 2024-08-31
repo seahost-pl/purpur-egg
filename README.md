@@ -1,1 +1,0 @@
-Pliki configuracyjny seahost.pl
